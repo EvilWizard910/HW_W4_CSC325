@@ -14,7 +14,8 @@ public class Staff
     {
         staffList = new StaffMember[6];
 
-        // TODO 1: Add 6 emploees to the staffList
+        // TODO 1: Add 6 employees to the staffList
+        StaffMember[0] = new Executive("John", "456 Off Line", "516-666-0101", "516-65-4321", 1000.00);
 
         ((Executive)staffList[0]).awardBonus(500.00);
 
