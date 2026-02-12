@@ -33,10 +33,12 @@ public class Staff
     public void payday ()
     {
         double amount;
+        int num;
 
         for (int count=0; count < staffList.length; count++)
         {
-            System.out.println(staffList[count]);
+           num =count+1;
+            System.out.println("Employee -" + num + "\n" + staffList[count]);
 
             amount = staffList[count].pay();  // polymorphic
 

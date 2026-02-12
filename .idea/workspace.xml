@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d5513b9-a84d-4339-9e59-0f9debfade89" name="Changes" comment="Made StaffMember class abstract">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Staff.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EvilWizard910&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EvilWizard910/HW_W4_CSC325&quot;,
+    &quot;accountId&quot;: &quot;c5a41710-063f-4cfd-9e7a-13bc914d91ef&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="39VHLEGdR3QjEyBzZJfDHIqH75o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Agency.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aidan/Downloads/HW_W4_CSC325-master/src/main/java/com/mycompany/agency/StaffMember.java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Agency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.agency.Agency" />
+      <module name="Agency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.agency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HW_W4_CSC325-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HW_W4_CSC325-master" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Agency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d5513b9-a84d-4339-9e59-0f9debfade89" name="Changes" comment="" />
+      <created>1770774259375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770774259375</updated>
+      <workItem from="1770774260442" duration="9999000" />
+      <workItem from="1770857720892" duration="1126000" />
+      <workItem from="1770859006189" duration="703000" />
+      <workItem from="1770930389700" duration="743000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit test">
+      <option name="closed" value="true" />
+      <created>1770775196705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770775196705</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Executive object to stafflist array">
+      <option name="closed" value="true" />
+      <created>1770777624062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770777624062</updated>
+    </task>
+    <task id="LOCAL-00003" summary="StaffMember toString">
+      <option name="closed" value="true" />
+      <created>1770778508824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770778508824</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Made respected child and parent classes through &quot;extend&quot;">
+      <option name="closed" value="true" />
+      <created>1770779948815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770779948815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created objects for stafflist array that should work after each class is written">
+      <option name="closed" value="true" />
+      <created>1770781030946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770781030946</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Combining my commits on main to master">
+      <option name="closed" value="true" />
+      <created>1770858730226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770858730226</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Made StaffMember class abstract">
+      <option name="closed" value="true" />
+      <created>1770930877282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770930877282</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit test" />
+    <MESSAGE value="add Executive object to stafflist array" />
+    <MESSAGE value="StaffMember toString" />
+    <MESSAGE value="Made respected child and parent classes through &quot;extend&quot;" />
+    <MESSAGE value="Created objects for stafflist array that should work after each class is written" />
+    <MESSAGE value="Combining my commits on main to master" />
+    <MESSAGE value="Made StaffMember class abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made StaffMember class abstract" />
+  </component>
+</project>
