@@ -3,7 +3,7 @@ package com.mycompany.agency;
 
 
 // TODO 1: Make this class work and public
- public class StaffMember
+ public abstract class StaffMember
 {
     protected String name;
     protected String address;
@@ -25,9 +25,7 @@ package com.mycompany.agency;
     //-----------------------------------------------------------------
     public String toString()
     {
-        System.out.println("Name: " + name);
-        System.out.println("Address: " + address);
-        System.out.println("Phone: " + phone);
+        return"Name: " + name + "\nAddress: " + address +"\nPhone: " + phone;
     }
 
     //-----------------------------------------------------------------
