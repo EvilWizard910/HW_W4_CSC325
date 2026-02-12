@@ -16,11 +16,10 @@ public class Staff
 
         // TODO 1: Add 6 emploees to the staffList
         staffList[0] = new Executive("John", "456 Off Line", "516-666-0101", "516-65-4321", 1000.00);
-        staffList[3] = new TempEmploee("William", "789 Off Rocker", "516-555-000", "632-20-3040", 700.00);
-        staffList[3] = new TempEmploee("William", "789 Off Rocker", "516-555-000", "632-20-3040", 700.00);
         staffList[1] = new StaffMember("Sam", "678 Fifth Ave.", "516-555-0690");
         staffList[2] = new Intern("Alex","987 Wood Blvd","516-555-8374");
-        staffList[4] = new StaffEmployee("Ahmad","321 Elm Lane","516-555-7282");
+        staffList[3] = new TempEmploee("William", "789 Off Rocker", "516-555-000", "632-20-3040", 700.00);
+        staffList[4] = new StaffEmployee("Ahmad","321 Elm Lane","516-555-7282", "632-20-3040", 800.00);
         staffList[5] = new Executive("Maya","1 Wood Blvd","516-555-4312","516-47-3625",900.00);
 
         ((Executive)staffList[0]).awardBonus(500.00);
