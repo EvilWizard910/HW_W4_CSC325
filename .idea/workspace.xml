@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5513b9-a84d-4339-9e59-0f9debfade89" name="Changes" comment="Made StaffMember class abstract">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Staff.java" afterDir="false" />
+    <list default="true" id="2d5513b9-a84d-4339-9e59-0f9debfade89" name="Changes" comment="Fixed toString to match sample report">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Agency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Agency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +108,7 @@
       <workItem from="1770774260442" duration="9999000" />
       <workItem from="1770857720892" duration="1126000" />
       <workItem from="1770859006189" duration="703000" />
-      <workItem from="1770930389700" duration="743000" />
+      <workItem from="1770930389700" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <option name="closed" value="true" />
@@ -165,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770930877282</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed toString to match sample report">
+      <option name="closed" value="true" />
+      <created>1770931269848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770931269848</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +211,7 @@
     <MESSAGE value="Created objects for stafflist array that should work after each class is written" />
     <MESSAGE value="Combining my commits on main to master" />
     <MESSAGE value="Made StaffMember class abstract" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made StaffMember class abstract" />
+    <MESSAGE value="Fixed toString to match sample report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed toString to match sample report" />
   </component>
 </project>
